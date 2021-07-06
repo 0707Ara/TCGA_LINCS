@@ -1,0 +1,33 @@
+HiSeqV2.gz 	80	20531	 Survival_ACC.txt 	11	93	 TCGA_RNA-Seq_ACC_T.txt 	82	20442	  												
+HiSeqV2.gz 	427	20531	 Survival_BLCA.txt 	11	437	 TCGA_RNA-Seq_BLCA_N.txt 	22	20442	 TCGA_RNA-Seq_BLCA_T.txt 	410	20442	  									
+HiSeqV2.gz 	1219	20531	 Survival_BRCA.txt 	11	1237	 TCGA_RNA-Seq_BRCA_M.txt 	10	20442	 TCGA_RNA-Seq_BRCA_N.txt 	22	20442	 TCGA_RNA-Seq_BRCA_N.txt.mat.txt 	20	20443	 TCGA_RNA-Seq_BRCA_T.txt 	1100	20442	 TCGA_RNA-Seq_BRCA_T.txt.mat.txt 	1098	20443	  
+HiSeqV2.gz 	309	20531	 Survival_CESC.txt 	11	313	 TCGA_RNA-Seq_CESC_M.txt 	5	20442	 TCGA_RNA-Seq_CESC_N.txt 	22	20442	 TCGA_RNA-Seq_CESC_T.txt 	306	20442	  						
+HiSeqV2.gz 	46	20531	 Survival_CHOL.txt 	11	46	 TCGA_RNA-Seq_CHOL_N.txt 	22	20442	 TCGA_RNA-Seq_CHOL_T.txt 	39	20442	  									
+HiSeqV2.gz 	330	20531	 Survival_COAD.txt 	11	546	 TCGA_RNA-Seq_COAD_M.txt 	4	20442	 TCGA_RNA-Seq_COAD_N.txt 	22	20442	 TCGA_RNA-Seq_COAD_R.txt 	4	20442	 TCGA_RNA-Seq_COAD_T.txt 	289	20442	  			
+HiSeqV2.gz 	49	20531	 Survival_DLBC.txt 	11	49	 TCGA_RNA-Seq_DLBC_T.txt 	51	20442	  												
+HiSeqV2.gz 	197	20531	 Survival_ESCA.txt 	11	205	 TCGA_RNA-Seq_ESCA_M.txt 	4	20442	 TCGA_RNA-Seq_ESCA_N.txt 	22	20442	 TCGA_RNA-Seq_ESCA_T.txt 	187	20442	  						
+HiSeqV2.gz 	173	20531	 Survival_GBM.txt 	11	603	 TCGA_RNA-Seq_GBM_N.txt 	22	20442	 TCGA_RNA-Seq_GBM_R.txt 	16	20442	 TCGA_RNA-Seq_GBM_T.txt 	157	20442	  						
+HiSeqV2.gz 	567	20531	 Survival_HNSC.txt 	11	605	 TCGA_RNA-Seq_HNSC_M.txt 	5	20442	 TCGA_RNA-Seq_HNSC_N.txt 	22	20442	 TCGA_RNA-Seq_HNSC_T.txt 	523	20442	  						
+HiSeqV2.gz 	92	20531	 Survival_KICH.txt 	11	92	 TCGA_RNA-Seq_KICH_N.txt 	22	20442	 TCGA_RNA-Seq_KICH_T.txt 	69	20442	  									
+HiSeqV2.gz 	607	20531	 Survival_KIRC.txt 	11	945	 TCGA_RNA-Seq_KIRC_N.txt 	22	20442	 TCGA_RNA-Seq_KIRC_T.txt 	537	20442	  									
+HiSeqV2.gz 	324	20531	 Survival_KIRP.txt 	11	353	 TCGA_RNA-Seq_KIRP_N.txt 	22	20442	 TCGA_RNA-Seq_KIRP_T.txt 	294	20442	  									
+HiSeqV2.gz 	174	20531	 Survival_LAML.txt 	11	201	 TCGA_RNA-Seq_LAML_T.txt 	176	20442	  												
+HiSeqV2.gz 	531	20531	 Survival_LGG.txt 	11	530	 TCGA_RNA-Seq_LGG_R.txt 	17	20442	 TCGA_RNA-Seq_LGG_T.txt 	519	20442	  									
+HiSeqV2.gz 	424	20531	 Survival_LIHC.txt 	11	439	 TCGA_RNA-Seq_LIHC_N.txt 	22	20442	 TCGA_RNA-Seq_LIHC_R.txt 	5	20442	 TCGA_RNA-Seq_LIHC_T.txt 	374	20442	  						
+HiSeqV2.gz 	577	20531	 Survival_LUAD.txt 	11	642	 TCGA_RNA-Seq_LUAD_N.txt 	22	20442	 TCGA_RNA-Seq_LUAD_R.txt 	5	20442	 TCGA_RNA-Seq_LUAD_T.txt 	518	20442	  						
+HiSeqV2.gz 	554	20531	 Survival_LUSC.txt 	11	505	 TCGA_RNA-Seq_LUSC_N.txt 	22	20442	 TCGA_RNA-Seq_LUSC_T.txt 	505	20442	  									
+HiSeqV2.gz 	88	20531	 Survival_MESO.txt 	11	88	 TCGA_RNA-Seq_MESO_T.txt 	90	20442	  												
+HiSeqV2.gz 	309	20531	 Survival_OV.txt 	11	605	 TCGA_RNA-Seq_OV_R.txt 	7	20442	 TCGA_RNA-Seq_OV_T.txt 	307	20442	  									
+HiSeqV2.gz 	184	20531	 Survival_PAAD.txt 	11	197	 TCGA_RNA-Seq_PAAD_M.txt 	4	20442	 TCGA_RNA-Seq_PAAD_N.txt 	22	20442	 TCGA_RNA-Seq_PAAD_T.txt 	181	20442	  						
+HiSeqV2.gz 	188	20531	 Survival_PCPG.txt 	11	188	 TCGA_RNA-Seq_PCPG_M.txt 	5	20442	 TCGA_RNA-Seq_PCPG_N.txt 	22	20442	 TCGA_RNA-Seq_PCPG_T.txt 	185	20442	  						
+HiSeqV2.gz 	551	20531	 Survival_PRAD.txt 	11	567	 TCGA_RNA-Seq_PRAD_M.txt 	4	20442	 TCGA_RNA-Seq_PRAD_N.txt 	22	20442	 TCGA_RNA-Seq_PRAD_T.txt 	500	20442	  						
+HiSeqV2.gz 	106	20531	 Survival_READ.txt 	11	184	 TCGA_RNA-Seq_READ_N.txt 	22	20442	 TCGA_RNA-Seq_READ_R.txt 	4	20442	 TCGA_RNA-Seq_READ_T.txt 	97	20442	  						
+HiSeqV2.gz 	266	20531	 Survival_SARC.txt 	11	272	 TCGA_RNA-Seq_SARC_M.txt 	4	20442	 TCGA_RNA-Seq_SARC_N.txt 	22	20442	 TCGA_RNA-Seq_SARC_R.txt 	6	20442	 TCGA_RNA-Seq_SARC_T.txt 	262	20442	  			
+HiSeqV2.gz 	475	20531	 Survival_SKCM.txt 	11	480	 TCGA_RNA-Seq_SKCM_M.txt 	372	20442	 TCGA_RNA-Seq_SKCM_N.txt 	22	20442	 TCGA_RNA-Seq_SKCM_T.txt 	107	20442	  						
+HiSeqV2.gz 	451	20531	 Survival_STAD.txt 	11	512	 TCGA_RNA-Seq_STAD_N.txt 	22	20442	 TCGA_RNA-Seq_STAD_T.txt 	418	20442	  									
+HiSeqV2.gz 	157	20531	 Survival_TGCT.txt 	11	140	 TCGA_RNA-Seq_TGCT_T.txt 	159	20442	  												
+HiSeqV2.gz 	573	20531	 Survival_THCA.txt 	11	581	 TCGA_RNA-Seq_THCA_M.txt 	11	20442	 TCGA_RNA-Seq_THCA_N.txt 	22	20442	 TCGA_RNA-Seq_THCA_T.txt 	508	20442	  						
+HiSeqV2.gz 	123	20531	 Survival_THYM.txt 	11	127	 TCGA_RNA-Seq_THYM_N.txt 	22	20442	 TCGA_RNA-Seq_THYM_T.txt 	123	20442	  									
+HiSeqV2.gz 	202	20531	 Survival_UCEC.txt 	11	584	 TCGA_RNA-Seq_UCEC_N.txt 	22	20442	 TCGA_RNA-Seq_UCEC_R.txt 	4	20442	 TCGA_RNA-Seq_UCEC_T.txt 	179	20442	  						
+HiSeqV2.gz 	58	20531	 Survival_UCS.txt 	11	58	 TCGA_RNA-Seq_UCS_T.txt 	60	20442	  												
+HiSeqV2.gz 	81	20531	 Survival_UVM.txt 	11	81	 TCGA_RNA-Seq_UVM_T.txt 	83	20442	  												
