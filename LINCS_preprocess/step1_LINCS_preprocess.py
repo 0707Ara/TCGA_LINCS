@@ -40,7 +40,7 @@ for g in WithDr:
     LINCS_G=LINCS_G[~LINCS_G.index.isin([str(g)])]
 
 LINCS_G.index=LINCS_G['pr_gene_id']
-LINCS_G=LINCS_G.loc[:,['pr_gene_id', 'pr_gene_symbol','Entrez','Symbol']]
+LINCS_G=LINCS_G.loc[:,['Entrez','Symbol']]
 
 # 같은 drugname셋에서 같은 new_drug_name끼리 평균내서 한개의 콜론으로 추출, 각 약물마다 반복
 # In the same drugname set, average for same new_drug_name column; repeat for every drug in drugname set. 
@@ -56,7 +56,7 @@ for dg in set(col_order['drugname']):
         Ldata_sub=Ldata_sub.apply(np.mean,1)
         result_mat[new_drug['new_drug_name'].values[0]]=Ldata_sub
 
-    LINCS_data_mat=result_mat.reset_index(drop=True)
+    LINCS_data_mat=LINCS_data_mat=pd.concat([LINCS_G.reset_index(drop=True),result_mat.reset_index(drop=True)],axis=1)
     column_names = subset_col_order.loc[subset_col_order["drugname"] == dg,"new_drug_name"].tolist()
     LINCS_data_mat = LINCS_data_mat.reindex(columns=column_names)
 
